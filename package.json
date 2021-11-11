@@ -1,0 +1,18 @@
+{
+  "name": "n315-homework-eight",
+  "version": "1.0.0",
+  "description": "Full Site Styles for N315 Homework 8, Fall 2021",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n315-homework-eight"
+  },
+  "author": "Daniel Todd",
+  "license": "ISC"
+}
